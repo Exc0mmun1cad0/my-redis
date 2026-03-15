@@ -1,11 +1,9 @@
 [![CI status](https://github.com/Exc0mmun1cad0/nova/actions/workflows/ci.yml/badge.svg)](https://github.com/Exc0mmun1cad0/nova/actions/workflows/ci.yml)
 ![Repository Top Language](https://img.shields.io/github/languages/top/Exc0mmun1cad0/nova)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Exc0mmun1cad0/nova)
-![Github Repository Size](https://img.shields.io/github/repo-size/Exc0mmun1cad0/nova)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Exc0mmun1cad0/nova)
 
-# Nova
+# My-redis
 
 > My implementation of a Redis-like key-value in-memory database
 
